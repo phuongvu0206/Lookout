@@ -3,11 +3,11 @@ PORT = 587
 
 # Sender email default credentials
 from_email_default = "vnplaptopalarm@gmail.com"
-password_default = "lhta rwfo rscr gswj"
+password_default = ""
 
 # Sender email credentials
-from_email = "vnplaptopalarm@gmail.com"
-password = "lhta rwfo rscr gswj"
+from_email = ""
+password = ""
 
 # Recipient email
 to_email = "vnp0206@gmail.com"
